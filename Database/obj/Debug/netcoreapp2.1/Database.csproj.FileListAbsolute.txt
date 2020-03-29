@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\Database\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+C:\Users\student\source\repos\Database\Database\bin\Debug\netcoreapp2.1\Database.runtimeconfig.json
+C:\Users\student\source\repos\Database\Database\bin\Debug\netcoreapp2.1\Database.runtimeconfig.dev.json
+C:\Users\student\source\repos\Database\Database\bin\Debug\netcoreapp2.1\Database.dll
+C:\Users\student\source\repos\Database\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Database\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Database\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+C:\Users\student\source\repos\Database\Database\obj\Debug\netcoreapp2.1\Database.genruntimeconfig.cache
